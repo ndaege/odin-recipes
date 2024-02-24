@@ -12,6 +12,5 @@ What did I learn?
     d. a
     e. img
     f. etc.
-3. 
-4. 
-5. Use of conventional commits as a standard for commit messages
+3. Use vscode as commit message editor
+4. Use of "Conventional Commits" as a standard for commit messages
