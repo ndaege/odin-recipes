@@ -13,5 +13,5 @@ What did I learn?
     e. img
     f. etc.
 3. Use vscode as commit message editor
-4. Use of "Conventional Commits" as a standard for commit messages
+4. Use "Conventional Commits" as a standard for commit messages
 5. Use br tag for line breaks
